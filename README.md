@@ -16,10 +16,11 @@ Repozytorium zawiera ćwiczenia, małe aplikacje konsolowe oraz stopniowo rozwij
 
 Każdy katalog to osobny projekt konsolowy tworzony w trakcie nauki.  
 - **/Library** – przykłady i ćwiczenia dotyczące klas, metod i struktur danych  
-- **/PhoneBook** – prosty projekt konsolowy do zarządzania książką telefoniczną  
+- **/PhoneBook** – prosty projekt konsolowy do zarządzania książką telefoniczną (dodawanie, wyszukiwanie i wyświetlanie numerów telefonów) 
 - **/bmi_calc** – projekt konsolowy do obliczania BMI  
 - **/if_else** – ćwiczenia z instrukcji warunkowych (`if`, `else`)  
 - **/switch** – ćwiczenia z instrukcji `switch`
+- **/ReverseWord** - logika odwracania kolejności słów w ciagu znaków poprzez samodzielne napisanie metody dzilenia, odwracania i łączenia elementów
 
 ## Zakres
 
