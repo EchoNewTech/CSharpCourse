@@ -21,6 +21,7 @@ Każdy katalog to osobny projekt konsolowy tworzony w trakcie nauki.
 - **/if_else** – ćwiczenia z instrukcji warunkowych (`if`, `else`)  
 - **/switch** – ćwiczenia z instrukcji `switch`
 - **/ReverseWord** - logika odwracania kolejności słów w ciagu znaków poprzez samodzielne napisanie metody dzilenia, odwracania i łączenia elementów
+- **/PotusAlone** - ćwiczenie dwuwymiarowej przestrzeni ograniczonej barierami
 
 ## Zakres
 
