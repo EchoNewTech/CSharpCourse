@@ -1,0 +1,15 @@
+D:\GIT\Projekty\if_else\bin\Debug\net10.0\if_else.exe
+D:\GIT\Projekty\if_else\bin\Debug\net10.0\if_else.deps.json
+D:\GIT\Projekty\if_else\bin\Debug\net10.0\if_else.runtimeconfig.json
+D:\GIT\Projekty\if_else\bin\Debug\net10.0\if_else.dll
+D:\GIT\Projekty\if_else\bin\Debug\net10.0\if_else.pdb
+D:\GIT\Projekty\if_else\obj\Debug\net10.0\if_else.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT\Projekty\if_else\obj\Debug\net10.0\if_else.AssemblyInfoInputs.cache
+D:\GIT\Projekty\if_else\obj\Debug\net10.0\if_else.AssemblyInfo.cs
+D:\GIT\Projekty\if_else\obj\Debug\net10.0\if_else.csproj.CoreCompileInputs.cache
+D:\GIT\Projekty\if_else\obj\Debug\net10.0\if_else.sourcelink.json
+D:\GIT\Projekty\if_else\obj\Debug\net10.0\if_else.dll
+D:\GIT\Projekty\if_else\obj\Debug\net10.0\refint\if_else.dll
+D:\GIT\Projekty\if_else\obj\Debug\net10.0\if_else.pdb
+D:\GIT\Projekty\if_else\obj\Debug\net10.0\if_else.genruntimeconfig.cache
+D:\GIT\Projekty\if_else\obj\Debug\net10.0\ref\if_else.dll
