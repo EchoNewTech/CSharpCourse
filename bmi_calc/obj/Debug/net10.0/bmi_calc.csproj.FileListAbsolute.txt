@@ -1,0 +1,15 @@
+D:\GIT\Projekty\bmi_calc\bin\Debug\net10.0\bmi_calc.exe
+D:\GIT\Projekty\bmi_calc\bin\Debug\net10.0\bmi_calc.deps.json
+D:\GIT\Projekty\bmi_calc\bin\Debug\net10.0\bmi_calc.runtimeconfig.json
+D:\GIT\Projekty\bmi_calc\bin\Debug\net10.0\bmi_calc.dll
+D:\GIT\Projekty\bmi_calc\bin\Debug\net10.0\bmi_calc.pdb
+D:\GIT\Projekty\bmi_calc\obj\Debug\net10.0\bmi_calc.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT\Projekty\bmi_calc\obj\Debug\net10.0\bmi_calc.AssemblyInfoInputs.cache
+D:\GIT\Projekty\bmi_calc\obj\Debug\net10.0\bmi_calc.AssemblyInfo.cs
+D:\GIT\Projekty\bmi_calc\obj\Debug\net10.0\bmi_calc.csproj.CoreCompileInputs.cache
+D:\GIT\Projekty\bmi_calc\obj\Debug\net10.0\bmi_calc.sourcelink.json
+D:\GIT\Projekty\bmi_calc\obj\Debug\net10.0\bmi_calc.dll
+D:\GIT\Projekty\bmi_calc\obj\Debug\net10.0\refint\bmi_calc.dll
+D:\GIT\Projekty\bmi_calc\obj\Debug\net10.0\bmi_calc.pdb
+D:\GIT\Projekty\bmi_calc\obj\Debug\net10.0\bmi_calc.genruntimeconfig.cache
+D:\GIT\Projekty\bmi_calc\obj\Debug\net10.0\ref\bmi_calc.dll
