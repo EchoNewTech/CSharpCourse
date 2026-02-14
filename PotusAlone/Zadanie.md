@@ -1,10 +1,11 @@
-# All Alone - Dokumentacja Algorytmu
+# All Alone - Analiza Izolacji (Codewars)
 
-## Cel
-Sprawdzenie, czy postać `X` jest odizolowana od postaci `o` przez ściany `#`.
+## Cel zadania
+Program sprawdza, czy postać **POTUS** (oznaczona jako `X`) jest odizolowana od **elfów** (oznaczonych jako `o`). Izolację zapewniają ściany wykonane z symbolu `#`.
 
 ## Mapa testowa
-Ostatnio testowany przypadek:
+W poniższym przypadku `X` znajduje się wewnątrz zamkniętego pomieszczenia, więc algorytm powinien potwierdzić, że jest on **sam** (`AllAlone = true`), mimo że elfy znajdują się na tej samej mapie.
+
 ```text
    o                o        #######
  ###############             #     #
@@ -12,5 +13,10 @@ Ostatnio testowany przypadek:
  #  X          ###############     #
  #                                 #
  ###################################
+```
+ ## Technologie
+ - Język: C#
+ - Struktury: char[][] (Jagged Array), List<Point>, struct Point
 
+ ## Link do zadania
  `https://www.codewars.com/kata/5c230f017f74a2e1c300004f`
