@@ -1,0 +1,15 @@
+D:\GIT\Projekty\switch\bin\Debug\net10.0\switch.exe
+D:\GIT\Projekty\switch\bin\Debug\net10.0\switch.deps.json
+D:\GIT\Projekty\switch\bin\Debug\net10.0\switch.runtimeconfig.json
+D:\GIT\Projekty\switch\bin\Debug\net10.0\switch.dll
+D:\GIT\Projekty\switch\bin\Debug\net10.0\switch.pdb
+D:\GIT\Projekty\switch\obj\Debug\net10.0\switch.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT\Projekty\switch\obj\Debug\net10.0\switch.AssemblyInfoInputs.cache
+D:\GIT\Projekty\switch\obj\Debug\net10.0\switch.AssemblyInfo.cs
+D:\GIT\Projekty\switch\obj\Debug\net10.0\switch.csproj.CoreCompileInputs.cache
+D:\GIT\Projekty\switch\obj\Debug\net10.0\switch.sourcelink.json
+D:\GIT\Projekty\switch\obj\Debug\net10.0\switch.dll
+D:\GIT\Projekty\switch\obj\Debug\net10.0\refint\switch.dll
+D:\GIT\Projekty\switch\obj\Debug\net10.0\switch.pdb
+D:\GIT\Projekty\switch\obj\Debug\net10.0\switch.genruntimeconfig.cache
+D:\GIT\Projekty\switch\obj\Debug\net10.0\ref\switch.dll
