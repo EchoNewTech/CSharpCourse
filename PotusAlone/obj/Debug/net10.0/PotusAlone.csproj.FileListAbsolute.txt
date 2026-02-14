@@ -1,0 +1,15 @@
+D:\GIT\Projekty\CSharpCourse\PotusAlone\bin\Debug\net10.0\PotusAlone.exe
+D:\GIT\Projekty\CSharpCourse\PotusAlone\bin\Debug\net10.0\PotusAlone.deps.json
+D:\GIT\Projekty\CSharpCourse\PotusAlone\bin\Debug\net10.0\PotusAlone.runtimeconfig.json
+D:\GIT\Projekty\CSharpCourse\PotusAlone\bin\Debug\net10.0\PotusAlone.dll
+D:\GIT\Projekty\CSharpCourse\PotusAlone\bin\Debug\net10.0\PotusAlone.pdb
+D:\GIT\Projekty\CSharpCourse\PotusAlone\obj\Debug\net10.0\PotusAlone.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT\Projekty\CSharpCourse\PotusAlone\obj\Debug\net10.0\PotusAlone.AssemblyInfoInputs.cache
+D:\GIT\Projekty\CSharpCourse\PotusAlone\obj\Debug\net10.0\PotusAlone.AssemblyInfo.cs
+D:\GIT\Projekty\CSharpCourse\PotusAlone\obj\Debug\net10.0\PotusAlone.csproj.CoreCompileInputs.cache
+D:\GIT\Projekty\CSharpCourse\PotusAlone\obj\Debug\net10.0\PotusAlone.sourcelink.json
+D:\GIT\Projekty\CSharpCourse\PotusAlone\obj\Debug\net10.0\PotusAlone.dll
+D:\GIT\Projekty\CSharpCourse\PotusAlone\obj\Debug\net10.0\refint\PotusAlone.dll
+D:\GIT\Projekty\CSharpCourse\PotusAlone\obj\Debug\net10.0\PotusAlone.pdb
+D:\GIT\Projekty\CSharpCourse\PotusAlone\obj\Debug\net10.0\PotusAlone.genruntimeconfig.cache
+D:\GIT\Projekty\CSharpCourse\PotusAlone\obj\Debug\net10.0\ref\PotusAlone.dll
