@@ -1,0 +1,15 @@
+D:\GIT\Projekty\phonebook\bin\Debug\net10.0\PhoneBook.exe
+D:\GIT\Projekty\phonebook\bin\Debug\net10.0\PhoneBook.deps.json
+D:\GIT\Projekty\phonebook\bin\Debug\net10.0\PhoneBook.runtimeconfig.json
+D:\GIT\Projekty\phonebook\bin\Debug\net10.0\PhoneBook.dll
+D:\GIT\Projekty\phonebook\bin\Debug\net10.0\PhoneBook.pdb
+D:\GIT\Projekty\phonebook\obj\Debug\net10.0\PhoneBook.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT\Projekty\phonebook\obj\Debug\net10.0\PhoneBook.AssemblyInfoInputs.cache
+D:\GIT\Projekty\phonebook\obj\Debug\net10.0\PhoneBook.AssemblyInfo.cs
+D:\GIT\Projekty\phonebook\obj\Debug\net10.0\PhoneBook.csproj.CoreCompileInputs.cache
+D:\GIT\Projekty\phonebook\obj\Debug\net10.0\PhoneBook.sourcelink.json
+D:\GIT\Projekty\phonebook\obj\Debug\net10.0\PhoneBook.dll
+D:\GIT\Projekty\phonebook\obj\Debug\net10.0\refint\PhoneBook.dll
+D:\GIT\Projekty\phonebook\obj\Debug\net10.0\PhoneBook.pdb
+D:\GIT\Projekty\phonebook\obj\Debug\net10.0\PhoneBook.genruntimeconfig.cache
+D:\GIT\Projekty\phonebook\obj\Debug\net10.0\ref\PhoneBook.dll
