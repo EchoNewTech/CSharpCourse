@@ -1,0 +1,15 @@
+D:\GIT\Projekty\CSharpCourse\ReverseWord\bin\Debug\net10.0\ReverseWord.exe
+D:\GIT\Projekty\CSharpCourse\ReverseWord\bin\Debug\net10.0\ReverseWord.deps.json
+D:\GIT\Projekty\CSharpCourse\ReverseWord\bin\Debug\net10.0\ReverseWord.runtimeconfig.json
+D:\GIT\Projekty\CSharpCourse\ReverseWord\bin\Debug\net10.0\ReverseWord.dll
+D:\GIT\Projekty\CSharpCourse\ReverseWord\bin\Debug\net10.0\ReverseWord.pdb
+D:\GIT\Projekty\CSharpCourse\ReverseWord\obj\Debug\net10.0\ReverseWord.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT\Projekty\CSharpCourse\ReverseWord\obj\Debug\net10.0\ReverseWord.AssemblyInfoInputs.cache
+D:\GIT\Projekty\CSharpCourse\ReverseWord\obj\Debug\net10.0\ReverseWord.AssemblyInfo.cs
+D:\GIT\Projekty\CSharpCourse\ReverseWord\obj\Debug\net10.0\ReverseWord.csproj.CoreCompileInputs.cache
+D:\GIT\Projekty\CSharpCourse\ReverseWord\obj\Debug\net10.0\ReverseWord.sourcelink.json
+D:\GIT\Projekty\CSharpCourse\ReverseWord\obj\Debug\net10.0\ReverseWord.dll
+D:\GIT\Projekty\CSharpCourse\ReverseWord\obj\Debug\net10.0\refint\ReverseWord.dll
+D:\GIT\Projekty\CSharpCourse\ReverseWord\obj\Debug\net10.0\ReverseWord.pdb
+D:\GIT\Projekty\CSharpCourse\ReverseWord\obj\Debug\net10.0\ReverseWord.genruntimeconfig.cache
+D:\GIT\Projekty\CSharpCourse\ReverseWord\obj\Debug\net10.0\ref\ReverseWord.dll
