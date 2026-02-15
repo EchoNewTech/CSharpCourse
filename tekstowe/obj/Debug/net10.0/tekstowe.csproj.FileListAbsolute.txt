@@ -1,0 +1,15 @@
+D:\GIT\Projekty\tekstowe\bin\Debug\net10.0\tekstowe.exe
+D:\GIT\Projekty\tekstowe\bin\Debug\net10.0\tekstowe.deps.json
+D:\GIT\Projekty\tekstowe\bin\Debug\net10.0\tekstowe.runtimeconfig.json
+D:\GIT\Projekty\tekstowe\bin\Debug\net10.0\tekstowe.dll
+D:\GIT\Projekty\tekstowe\bin\Debug\net10.0\tekstowe.pdb
+D:\GIT\Projekty\tekstowe\obj\Debug\net10.0\tekstowe.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT\Projekty\tekstowe\obj\Debug\net10.0\tekstowe.AssemblyInfoInputs.cache
+D:\GIT\Projekty\tekstowe\obj\Debug\net10.0\tekstowe.AssemblyInfo.cs
+D:\GIT\Projekty\tekstowe\obj\Debug\net10.0\tekstowe.csproj.CoreCompileInputs.cache
+D:\GIT\Projekty\tekstowe\obj\Debug\net10.0\tekstowe.sourcelink.json
+D:\GIT\Projekty\tekstowe\obj\Debug\net10.0\tekstowe.dll
+D:\GIT\Projekty\tekstowe\obj\Debug\net10.0\refint\tekstowe.dll
+D:\GIT\Projekty\tekstowe\obj\Debug\net10.0\tekstowe.pdb
+D:\GIT\Projekty\tekstowe\obj\Debug\net10.0\tekstowe.genruntimeconfig.cache
+D:\GIT\Projekty\tekstowe\obj\Debug\net10.0\ref\tekstowe.dll
