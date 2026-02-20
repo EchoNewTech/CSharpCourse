@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1Nwa1DRADm8=",
+  "success": true,
+  "projectFilePath": "D:\\GIT\\Projekty\\FP\\FP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gosia\\.nuget\\packages\\csvhelper\\33.1.0\\csvhelper.33.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
